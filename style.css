@@ -40,6 +40,7 @@
   height: 40px;
   border: none;
   font-size: 16px;
+  transition: 0.2s ease-in-out;
 }
  /* From Uiverse.io by AlimurtuzaCodes */
  .btn {
